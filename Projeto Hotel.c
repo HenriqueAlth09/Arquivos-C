@@ -48,7 +48,7 @@ int main (){
         return 1;
     }
     
-    printf("Para selecionar o serviço de quarto ligue: (19)77777-7777\n");
+    printf("Para selecionar o serviço de quarto ligue: 1\n");
     scanf("%d", &servico);
     switch(servico){
         case 1:
